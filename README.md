@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<div style="margin-top: 50px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surakiat7&show_icons=true&locale=en" alt="surakiat7" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surakiat7&" alt="surakiat7" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=surakiat7&show_icons=true&locale=en" alt="surakiat7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surakiat7&" alt="surakiat7" />
 </div>
