@@ -17,10 +17,6 @@
   <li>⚡ Fun fact: <strong>I'm an introvert.</strong></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/surakiat000)&nbsp;&nbsp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/xgustdjj)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
