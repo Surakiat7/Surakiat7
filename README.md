@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Surakiat Tabalkorn (JJ)</h1>
+<h1 align="left">Hi 👋, I'm Surakiat Tablakorn (JJ)</h1>
 <h3 align="left">A passionate frontend developer from Bangkok</h3>
 <h4 align="left">About Me</h4>
 <p align="left">
