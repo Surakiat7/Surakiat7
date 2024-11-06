@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Bangkok</h3>
 <h4 align="left">About Me</h4>
 <p align="left">
-  As a Frontend Developer with one year of experience in Next.js, React, and JavaScript/TypeScript, I am skilled in creating responsive web applications and translating UI/UX designs. I excel in collaborative problem-solving, finding solutions, and working directly with clients or system users.
+  As a Frontend Developer with 1+ year of experience in Next.js, React, and JavaScript/TypeScript, I am skilled in creating responsive web applications and translating UI/UX designs. I excel in collaborative problem-solving, finding solutions, and working directly with clients or system users.
 </p>
 <h4 align="left">Education</h4>
 <p align="left">
