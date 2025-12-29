@@ -12,7 +12,7 @@
   <li>🌱 I'm currently learning <strong>Micro Frontend</strong></li>
   <li>💬 Ask me about <strong>Nextjs, React, Express, MySQL, TypeScript</strong></li>
   <li>📫 How to reach me: <strong>surakiat.contact.work@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://www.surakiat.dev" target="_blank">www.surakiat.dev</a></li>
+  <li>📄 Know about my experiences: <a href="https://surakiat.dev/en" target="_blank">www.surakiat.dev</a></li>
   <li>⚡ Fun fact: <strong>I'm an introvert.</strong></li>
 </ul>
 
