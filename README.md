@@ -10,7 +10,6 @@
 </p>
 <ul align="left">
   <li>🌱 I'm currently learning <strong>Micro Frontend</strong></li>
-  <li>📝 I regularly write articles on <a href="https://www.surakiat.dev/blog" target="_blank">www.surakiat.dev/blog</a></li>
   <li>💬 Ask me about <strong>Nextjs, React, Express, MySQL, TypeScript</strong></li>
   <li>📫 How to reach me: <strong>surakiat.contact.work@gmail.com</strong></li>
   <li>📄 Know about my experiences: <a href="https://www.surakiat.dev" target="_blank">www.surakiat.dev</a></li>
