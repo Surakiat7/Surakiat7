@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Bangkok</h3>
 <h4 align="left">About Me</h4>
 <p align="left">
-  As a Frontend Developer with experience in Next.js, React, and JavaScript/TypeScript, I am skilled in creating responsive web applications and translating UI/UX designs. I excel in collaborative problem-solving, finding solutions, and working directly with clients or system users.
+  Frontend Developer experienced in building and maintaining responsive web applications using Next.js, React.js, and modern frontend technologies. I specialize in creating scalable, high-performance interfaces with a focus on clean code, reusability, and user-centered design. I hold a Bachelor’s degree in Computer Science from Ubon Ratchathani University.
 </p>
 <h4 align="left">Education</h4>
 <p align="left">
