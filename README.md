@@ -23,8 +23,3 @@
   </a>
 </p>
 
-<div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surakiat7&" alt="surakiat7"
-    style="width: 400px; height: 200px;" />
-</div>
-
